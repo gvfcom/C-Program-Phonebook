@@ -1,8 +1,8 @@
 # C-Program-Phonebook
-Phonebook in Portuguese (BR) language.
+Agenda telefônica. | Phonebook in Portuguese (BR) language.
 
-# Instructions
-Please note that this program is in Portuguese (BR), so all the instructions will follow this language:
+# Instruções | Instructions
+Instruções em Português: | Please note that this program is in Portuguese (BR), so all the instructions will be in this language:
 
 Compile usando o seu interpretador C de preferência, tal como CodeBlocks, ou por prompt de command desde que o compilador C esteja instalado:
 
